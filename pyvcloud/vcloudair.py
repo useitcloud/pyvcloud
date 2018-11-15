@@ -2758,3 +2758,4 @@ class VCA(object):
             return queryRecordViewType.parseString(
                 self.response.content, True)
         return None
+
